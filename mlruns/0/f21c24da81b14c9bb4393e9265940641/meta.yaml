@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Ineuron/Project/mlflow/mlruns/0/f21c24da81b14c9bb4393e9265940641/artifacts
+end_time: 1691865707170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f21c24da81b14c9bb4393e9265940641
+run_name: adorable-vole-521
+run_uuid: f21c24da81b14c9bb4393e9265940641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691865657450
+status: 3
+tags: []
+user_id: HP

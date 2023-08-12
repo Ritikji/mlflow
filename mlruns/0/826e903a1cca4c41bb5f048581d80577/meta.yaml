@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Ineuron/Project/mlflow/mlruns/0/826e903a1cca4c41bb5f048581d80577/artifacts
+end_time: 1691867558531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 826e903a1cca4c41bb5f048581d80577
+run_name: resilient-shark-785
+run_uuid: 826e903a1cca4c41bb5f048581d80577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691867557796
+status: 4
+tags: []
+user_id: HP

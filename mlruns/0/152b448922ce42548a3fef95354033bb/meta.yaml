@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Ineuron/Project/mlflow/mlruns/0/152b448922ce42548a3fef95354033bb/artifacts
+end_time: 1691867511302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 152b448922ce42548a3fef95354033bb
+run_name: big-fowl-449
+run_uuid: 152b448922ce42548a3fef95354033bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691867436605
+status: 4
+tags: []
+user_id: HP
